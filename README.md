@@ -1,7 +1,7 @@
 # **ρBerTO** -- A _RoboTO_ solution to the NASA Space Apps Challenge
 Proposed solution for the "Save the Earth from another Carrington Event"
 
-![ρBerTO](copertina.png)
+![ρBerTO](team_cover.png)
 
 ## High-Level Project Description
 The project describes a Machine Learning approach for the Carrington Event data comprehension. 
